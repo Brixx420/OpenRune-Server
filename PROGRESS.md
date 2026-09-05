@@ -203,7 +203,7 @@ here so it at least shows up. Nothing is ticked until someone claims it.
 - [ ] Tools
 - [ ] Magic secateurs
 - [ ] Farmer's outfit
-- [ ] Amulet of nature
+- [ ] Amulet of Nature
 - [ ] Seeds
 - [ ] Disease, payment, compost, and watering
 - [ ] Reducing disease risk
@@ -283,11 +283,13 @@ Found the same way `settings.gradle.kts` finds them: any dir with a `build.gradl
 | `areas/misc/wizards_tower` | 2 | 580 | 0 | 0 | 2026-08-04 |
 | `areas/wilderness` | 18 | 1,315 | 0 | 0 | 2026-08-18 |
 | `areas/zeah` | 3 | 234 | 0 | 0 | 2026-08-18 |
+| `bosses/demonic-gorilla` | 1 | 308 | 0 | 0 | 2026-09-04 |
 | `bosses/graardor` | 2 | 166 | 0 | 0 | 2026-08-03 |
 | `bosses/kbd` | 2 | 143 | 0 | 1 | 2026-07-07 |
 | `bosses/kreearra` | 2 | 229 | 0 | 0 | 2026-08-03 |
 | `bosses/kril` | 2 | 191 | 0 | 0 | 2026-08-03 |
 | `bosses/scurrius` | 2 | 403 | 0 | 0 | 2026-07-07 |
+| `bosses/tormented-demon` | 2 | 556 | 0 | 0 | 2026-09-05 |
 | `bosses/zilyana` | 2 | 165 | 0 | 0 | 2026-08-03 |
 | `drops` | 255 | 14,370 | 0 | 0 | 2026-08-28 |
 | `events/shooting-stars` | 9 | 1,261 | 0 | 0 | 2026-08-30 |
